@@ -10,7 +10,7 @@
 
 
 
-class triangulo:
+class retangulo:
   def __init__(self):
     self.altura = 0
     self.largura = 0
@@ -29,4 +29,4 @@ class triangulo:
     print("os dimencionamentos atuais são:/n Altura: ", self.altura, "/n Largura: ", self.largura )
 
 
-triangulo1 = triangulo()
+retangulo1 = retangulo()
